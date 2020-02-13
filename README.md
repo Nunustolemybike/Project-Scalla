@@ -11,5 +11,5 @@ Processus Inverse : NOK
 
 ## Probleme rencontrer
 
--> Pas reussi a importer deux librairies : lorsque j'en importe une la deuxième tombe en erreur.
+-> Pas reussi à importer deux librairies : lorsque j'en importe une la deuxième tombe en erreur.
  
